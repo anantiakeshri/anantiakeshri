@@ -1,6 +1,6 @@
 ### Hola Amigos👋
 # 💫 About Me:
-I am currently practicing DevOps and its technologies.<br>I am currently learning Python, Linux, and exploring cloud platforms like AWS and GCP.<br><br> 
+I am currently learning Python, Linux, and exploring cloud platforms like AWS and GCP.<br><br> 
 
 
 ## 🌐 Socials:
