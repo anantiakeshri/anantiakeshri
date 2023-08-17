@@ -2,7 +2,6 @@
 # 💫 About Me:
 I am currently learning Python, Linux, and exploring cloud platforms like AWS and GCP.<br><br> 
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/anantiakeshri](https://www.instagram.com/anantiakeshri/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/anantiakeshri](https://www.linkedin.com/in/anantia-keshri-74095b230/)) 
 
@@ -11,7 +10,6 @@ I am currently learning Python, Linux, and exploring cloud platforms like AWS an
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anantiakeshri&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anantiakeshri&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anantiakeshri&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anantiakeshri&theme=radical&no-frame=false&no-bg=true&margin-w=4)
