@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<img src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" alt="tenor GIF" width="500" height="400">
+<p align="center"> <img src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" alt="tenor GIF" width="500" height="400"> </p>
 
 <h1 align="center">Hola Amigos👋 I'm Anantia Keshri</h1>
 <h3 align="center">A Passionate DevOps Enthusiast.</h3>
@@ -40,13 +40,32 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantiakeshri&show_icons=true&locale=en&layout=compact" alt="anantiakeshri" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anantiakeshri&show_icons=true&locale=en" alt="anantiakeshri" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anantiakeshri&" alt="anantiakeshri" /></p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anantiakeshri&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anantiakeshri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=anantiakeshri&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+###
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+###
+<img src="https://raw.githubusercontent.com/anantiakeshri/anantiakeshri/output/snake.svg" alt="Snake animation" />
+###
+<img src="https://raw.githubusercontent.com/anantiakeshri/anantiakeshri/output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anantiakeshri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anantiakeshri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/Santhosh234">
+<a href="https://github.com/anantiakeshri">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anantiakeshri&theme=aura_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anantiakeshri&theme=aura_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anantiakeshri&theme=aura_dark" height="180em" />
