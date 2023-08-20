@@ -40,12 +40,9 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
-<h3 align="left"><b>📊 GitHub Stats:</b></h3>
-![](https://github-readme-stats.vercel.app/api?username=anantiakeshri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anantiakeshri&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anantiakeshri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anantiakeshri&show_icons=true&locale=en&layout=compact" alt="anantiakeshri" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anantiakeshri&show_icons=true&locale=en" alt="anantiakeshri" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anantiakeshri&" alt="anantiakeshri" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
@@ -57,10 +54,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anantiakeshri&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Santhosh234&theme=react-dark"/>
-
-<h3 align="left"><b>🔝 Top Contributed Repo:</b></h3>
-![](https://github-contributor-stats.vercel.app/api?username=anantiakeshri&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=anantiakeshri&theme=react-dark"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
