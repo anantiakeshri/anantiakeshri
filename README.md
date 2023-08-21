@@ -7,8 +7,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=anantiakeshri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anantiakeshri&label=Profile%20views&color=0e75b6&style=flat" alt="anantiakeshri" /> </p>
-
 <p align="left"> <a href="https://twitter.com/anantiakeshri" target="blank"><img src="https://img.shields.io/twitter/follow/anantiakeshri?logo=twitter&style=for-the-badge" alt="anantiakeshri" /></a> </p>
 
 - 🌱 I’m currently learning **Python, Linux and exploring cloud platforms like AWS and GCP.**
