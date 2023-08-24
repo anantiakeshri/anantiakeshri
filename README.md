@@ -3,6 +3,7 @@
 <p align="center"> <img src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif" alt="tenor GIF" width="500" height="400"> </p>
 
 <h1 align="center">Hola Amigos👋 I'm Anantia Keshri</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">A Passionate DevOps Enthusiast.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=anantiakeshri&icon=0&color=0)](https://visitcount.itsvg.in)
