@@ -13,14 +13,14 @@
 - 🌱 I’m currently learning **Python, Linux and exploring cloud platforms like AWS and GCP.**
 - 🤔 Ask me about **Python, AWS, GCP.**
 - 📫 How to reach me **anantiakeshri9@gmail.com**
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Jew1XQK5ldLN6FUPqXTxBI2mBvRJ8qdu/view?usp=drive_link](https://drive.google.com/file/d/1Jew1XQK5ldLN6FUPqXTxBI2mBvRJ8qdu/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BGe8ElH37u707v_HAKgkvuGf6G10ypIp/view?usp=drive_link](https://drive.google.com/file/d/1BGe8ElH37u707v_HAKgkvuGf6G10ypIp/view?usp=drive_link)
 - ⚡ Fun fact **I like adding pun in life, no pun intended.**
 
 
 <h3 align="left"><b>Connect with me:</b></h3>
 <p align="left">
 <a href="https://twitter.com/anantiakeshri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anantiakeshri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anantia-keshri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anantia-keshri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anantia-keshri-74095b230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anantia-keshri" height="30" width="40" /></a>
 <a href="https://instagram.com/anantiakeshri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anantiakeshri" height="30" width="40" /></a>
 </p>
 
