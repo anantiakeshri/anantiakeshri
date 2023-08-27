@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">A Passionate DevOps Enthusiast.</h3>
 
-[![](https://visitcount.itsvg.in/api?id=anantiakeshri&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anantiakeshri&label=Profile%20views&color=0e75b6&style=flat" alt="anantiakeshri" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anantiakeshri" target="blank"><img src="https://img.shields.io/twitter/follow/anantiakeshri?logo=twitter&style=for-the-badge" alt="anantiakeshri" /></a> </p>
 
