@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anantiakeshri&label=Profile%20views&color=0e75b6&style=flat" alt="anantiakeshri" /> </p>
 
-<p align="left">- 🌱 I’m currently learning *Python, Linux and exploring cloud platforms like AWS and GCP.<br>- 🤔 Ask me about Python, AWS, GCP.<br>- 📫 How to reach me anantiakeshri9@gmail.com<br>- ⚡ Fun fact - I like adding pun in life, no pun intended.</p>
+<p align="left">- 🌱 I’m currently learning *Python, Linux and exploring cloud platforms like AWS and GCP.<br>- 🤔 Ask me about Python, RDBMS, AWS, GCP.<br>- 📫 How to reach me anantiakeshri9@gmail.com<br>- ⚡ Fun fact - I like adding pun in life, no pun intended.</p>
 
 ###
 
