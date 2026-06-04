@@ -1,7 +1,17 @@
-I work as a Cloud Security Analyst with a strong focus on application risk in cloud-native environments.
+A Infrastructure Solution Compliance Architect with experience securing enterprise multi-cloud environments across AWS, Azure, GCP, and hybrid infrastructure.
 
-Over the past two years, my work has centered on securing how applications are designed, deployed, and accessed in multi-cloud environments. I focus on preventing application-level vulnerabilities caused by cloud misconfigurations—such as broken access control, exposed services, and insecure defaults—using strong architecture fundamentals, IAM controls, and DevSecOps practices.
+Skilled in:
+• Cloud Security Posture Management
+• Infrastructure Governance
+• Kubernetes & Container Security
+• CNAPP (Wiz, Aqua Security)
+• DevSecOps & CI/CD Security
+• Terraform & Security Automation
+• IAM & Zero Trust Security Controls
 
-I have hands-on experience with CNAPP platforms (Wiz, Aqua), CI/CD security automation, private endpoint architectures, AI governance enforcement, and compliance-driven controls. My approach emphasizes clarity, measurable security outcomes, and reducing real attack paths rather than closing alerts.
+Hands-on experience implementing workload protection strategies, cloud governance controls, vulnerability remediation workflows, and infrastructure security automation across enterprise environments.
 
-I am intentionally transitioning toward Application Security by deepening my work in secure design, API and identity security, and shift-left security practices—bridging cloud security with application security.
+Experienced in identifying architectural security gaps, reducing exposure risks, strengthening governance posture, and collaborating with cross-functional teams to improve enterprise security resilience.
+
+Strong interest in Cloud Security Architecture, Zero Trust, Infrastructure Governance, and Enterprise Security Strategy.
+
